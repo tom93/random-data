@@ -1,0 +1,8 @@
+pages:
+  image: alpine
+  script: ":"
+  artifacts:
+    paths:
+    - public
+  only:
+  - gitlab-pages
