@@ -1,5 +1,5 @@
 pages:
-  image: alpine
+  image: busybox
   script: ":"
   artifacts:
     paths:
